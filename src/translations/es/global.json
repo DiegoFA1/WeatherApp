@@ -1,0 +1,31 @@
+{
+    "search" : {
+        "search-placeholder" : "Buscar ciudad..."
+    },
+
+    "header" : {
+        "title" : "Applicación del tiempo"
+    },
+
+    "weather" : {
+        "city" : "Ciudad",
+        "max-temperature" : "Temperatura máxima",
+        "min-temperature" : "Temperatura mínima",
+        "humidity" : "Humedad",
+        "wind" : "Viento",
+        "pressure" : "Presión",
+        "search" : "buscar",
+        "error" : "Ciudad no encontrada"
+    },
+    
+    "day" : {
+        "monday" : "Lunes",
+        "tuesday" : "Martes",
+        "wednesday" : "Miércoles",
+        "thursday" : "Jueves",
+        "friday" : "Viernes",
+        "saturday" : "Sábado",
+        "sunday" : "Domingo"
+    } 
+    
+}

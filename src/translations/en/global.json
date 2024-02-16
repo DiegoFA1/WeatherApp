@@ -1,0 +1,30 @@
+{
+    "search" : {
+        "search-placeholder" : "Search city..."
+    },
+
+    "header" : {
+        "title" : "Weather App"
+    },
+
+    "weather" : {
+        "city" : "City",
+        "max-temperature" : "Max Temp",
+        "min-temperature" : "Min Temp",
+        "humidity" : "Humidity",
+        "wind" : "Wind",
+        "pressure" : "Pressure",
+        "error" : "City not found"
+    },
+    
+    "day" : {
+        "monday" : "Monday",
+        "tuesday" : "Tuesday",
+        "wednesday" : "Wednesday",
+        "thursday" : "Thursday",
+        "friday" : "Friday",
+        "saturday" : "Saturday",
+        "sunday" : "Sunday"
+    } 
+    
+}
